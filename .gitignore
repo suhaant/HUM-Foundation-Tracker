@@ -1,3 +1,6 @@
 out/
 data/
 lib/*.jar
+lib/*.dll
+lib/*.properties
+lib/*.gitkeep
